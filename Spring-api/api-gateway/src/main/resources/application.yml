@@ -1,0 +1,31 @@
+server:
+  port: 9000
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+    instance:
+      hostname: localhost
+spring:
+  application:
+    name: API-GATEWAY
+  cloud:
+    gateway:
+      routes:
+        - id: FILE-SERVICE
+          uri: lb://FILE-SERVICE
+          predicates:
+            - Path=/api/files/**
+        - id: FILEPOOL-SERVICE
+          uri: lb://FILEPOOL-SERVICE
+          predicates:
+            - Path=/api/filepools/**
+        - id: CLIENT-SERVICE
+          uri: lb://CLIENT-SERVICE
+          predicates:
+            - Path=/api/clients/**
+
+
+
