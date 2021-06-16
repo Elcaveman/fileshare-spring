@@ -1,0 +1,181 @@
+/Django-fileshare/test/
+	/venv
+	/.vscode
+	runenv.bat
+	db.sqlite3
+	/Media/uploads
+	/Media/spring
+/Spring-api/api-gateway/
+	HELP.md
+	target/
+	!.mvn/wrapper/maven-wrapper.jar
+	!**/src/main/**/target/
+	!**/src/test/**/target/
+
+	### STS ###
+	.apt_generated
+	.classpath
+	.factorypath
+	.project
+	.settings
+	.springBeans
+	.sts4-cache
+
+	### IntelliJ IDEA ###
+	.idea
+	*.iws
+	*.iml
+	*.ipr
+
+	### NetBeans ###
+	/nbproject/private/
+	/nbbuild/
+	/dist/
+	/nbdist/
+	/.nb-gradle/
+	build/
+	!**/src/main/**/build/
+	!**/src/test/**/build/
+
+	### VS Code ###
+	.vscode/
+
+/Spring-api/client-service/
+	HELP.md
+	target/
+	!.mvn/wrapper/maven-wrapper.jar
+	!**/src/main/**/target/
+	!**/src/test/**/target/
+
+	### STS ###
+	.apt_generated
+	.classpath
+	.factorypath
+	.project
+	.settings
+	.springBeans
+	.sts4-cache
+
+	### IntelliJ IDEA ###
+	.idea
+	*.iws
+	*.iml
+	*.ipr
+
+	### NetBeans ###
+	/nbproject/private/
+	/nbbuild/
+	/dist/
+	/nbdist/
+	/.nb-gradle/
+	build/
+	!**/src/main/**/build/
+	!**/src/test/**/build/
+
+	### VS Code ###
+	.vscode/
+
+/Spring-api/filepool-service/
+	HELP.md
+	target/
+	!.mvn/wrapper/maven-wrapper.jar
+	!**/src/main/**/target/
+	!**/src/test/**/target/
+
+	### STS ###
+	.apt_generated
+	.classpath
+	.factorypath
+	.project
+	.settings
+	.springBeans
+	.sts4-cache
+
+	### IntelliJ IDEA ###
+	.idea
+	*.iws
+	*.iml
+	*.ipr
+
+	### NetBeans ###
+	/nbproject/private/
+	/nbbuild/
+	/dist/
+	/nbdist/
+	/.nb-gradle/
+	build/
+	!**/src/main/**/build/
+	!**/src/test/**/build/
+
+	### VS Code ###
+	.vscode/
+
+/Spring-api/file-service/
+	HELP.md
+	target/
+	!.mvn/wrapper/maven-wrapper.jar
+	!**/src/main/**/target/
+	!**/src/test/**/target/
+
+	### STS ###
+	.apt_generated
+	.classpath
+	.factorypath
+	.project
+	.settings
+	.springBeans
+	.sts4-cache
+
+	### IntelliJ IDEA ###
+	.idea
+	*.iws
+	*.iml
+	*.ipr
+
+	### NetBeans ###
+	/nbproject/private/
+	/nbbuild/
+	/dist/
+	/nbdist/
+	/.nb-gradle/
+	build/
+	!**/src/main/**/build/
+	!**/src/test/**/build/
+
+	### VS Code ###
+	.vscode/
+
+/Spring-api/service-registry/
+	HELP.md
+	target/
+	!.mvn/wrapper/maven-wrapper.jar
+	!**/src/main/**/target/
+	!**/src/test/**/target/
+
+	### STS ###
+	.apt_generated
+	.classpath
+	.factorypath
+	.project
+	.settings
+	.springBeans
+	.sts4-cache
+
+	### IntelliJ IDEA ###
+	.idea
+	*.iws
+	*.iml
+	*.ipr
+
+	### NetBeans ###
+	/nbproject/private/
+	/nbbuild/
+	/dist/
+	/nbdist/
+	/.nb-gradle/
+	build/
+	!**/src/main/**/build/
+	!**/src/test/**/build/
+
+	### VS Code ###
+	.vscode/
